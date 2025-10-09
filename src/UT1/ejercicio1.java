@@ -1,3 +1,4 @@
+package UT1;
 import java.util.Scanner;
 
 public class ejercicio1 {
