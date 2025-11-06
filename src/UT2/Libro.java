@@ -18,7 +18,7 @@ public class Libro {
 
     public static void main(String[] args) {
         Libro libro1 = new Libro("La casa de Papel", "Florentino Perez");
-        Libro libro2 = new Libro("La Leyenda", "Diego Pablo Simeone0.");
+        Libro libro2 = new Libro("La Leyenda", "Diego Pablo Simeone.");
 
         libro1.mostrarInfo();
         libro2.mostrarInfo();
